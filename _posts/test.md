@@ -2,7 +2,7 @@
 layout:     post
 title:      test
 subtitle:   辩证分析柔术中技术与力量
-date:       2018-01-04
+date:       2018-02-02
 author:     BY
 header-img: img/post-bg-BJJ.jpg
 catalog: true
