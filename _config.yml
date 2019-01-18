@@ -1,4 +1,4 @@
-# Site settings
+﻿# Site settings
 title: Xinxin Blog
 SEOTitle: 新新的博客 | Xinxin Blog
 header-img: img/post-bg-rwd.jpg
@@ -58,8 +58,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 1ae6a8cbf0a4bf7d1275                           #生成的clientID
-  clientSecret: 43acdf1b6692a2c7707cb5e71c23a1e4352d5e29    #生成的clientSecret
+  clientID: 8e86e682fef0f09a1386                           #生成的clientID
+  clientSecret: be51e945bbe413e3a93571164c36ae304ee118c7    #生成的clientSecret
   repo: xinxin2018.github.io    #仓库名称
   owner: xinxin2018    #github用户名
   admin: xinxin2018
